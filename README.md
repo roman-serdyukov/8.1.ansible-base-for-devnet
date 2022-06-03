@@ -30,8 +30,10 @@
 
 ---
 
-### Как оформить ДЗ?
+### Ответ
 
-Выполненное домашнее задание пришлите ссылкой на .md-файл в вашем репозитории.
+- [Ссылка ](https://github.com/roman-serdyukov/8.1.ansible-base-for-devnet/tree/master/playbook) на `README.md` ответами на вопросы.
+- Измененный `playbook` для основной части задания в первом commit 'Add homework 8.1.Ansible_base main part'
+- Измененный `playbook` для дополнительной части дотсупен с commit 'Add homework 8.1.Ansible_base optional part'
 
 ---

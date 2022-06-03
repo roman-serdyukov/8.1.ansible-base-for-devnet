@@ -42,3 +42,4 @@ roman@DME-UBUNTU:~/Документы/projects/8.1.ansible-base-for-devnet$ ansi
 ```bash
 roman@DME-UBUNTU:~/Документы/projects/8.1.ansible-base-for-devnet$ ansible-doc -t connection ssh
 ```
+9. Параметр - remote_user
